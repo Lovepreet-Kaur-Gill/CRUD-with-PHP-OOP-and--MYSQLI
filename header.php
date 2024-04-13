@@ -14,7 +14,7 @@
             <div class="col-md-10 offset-1">
                 <div class="card">
                   <div class="card-header">
-                    <h3 class="card-title">
+                    <h3 class="card-title" style="text-align:center;">
                         CRUD with PHP_OOP annd MYSQLI
                     </h3>
                   </div>
